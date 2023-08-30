@@ -1,1 +1,2 @@
-coding is interesting
+How to be up to date on git
+
